@@ -1,7 +1,7 @@
 # Intro
 This repository contains information related to my presentation at the 7th International Bio-logging Science Symposium titled, *"More than just a fad? Endangered false killer whale movements in relation to fish aggregating devices (FADs) in Hawai'i*, co-authored by Robin Baird. 
 
-A PDF copy of the poster will be available for download here, and information on funding, references, and acknowledgements are summarised in a bookdown file (see below). 
+A PDF copy of the poster will be available for download here, and information on funding, references, and acknowledgements are summarised below.
 
 ## Funding
 - Funding for field efforts was provided from the NOAA Pacific Islands Fisheries Science Center (PIFSC), the State of Hawai'i (Dept of Land and Natural Resources), and the U.S. Navy. 
