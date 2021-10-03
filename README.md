@@ -4,4 +4,4 @@ This repository contains information related to my presentation at the 7th Inter
 A PDF copy of the poster will be available for download here, and information on funding, references, and acknowledgements are summarised in a bookdown file (see below). 
 
 ## bookdown
-This folder contains HTML files to bookdown document for this presentation. This document includes information on references and acknowledgements. 
+This folder contains HTML files to bookdown document for this presentation. This document includes information on references and acknowledgements. To view this document as it was rendered, **download the index.html file and open in your browser**. 
