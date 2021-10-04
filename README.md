@@ -6,6 +6,8 @@ A PDF copy of the poster will be available for download here, and information on
 ## Funding
 - Funding for field efforts was provided from the NOAA Pacific Islands Fisheries Science Center (PIFSC), the State of Hawai'i (Dept of Land and Natural Resources), and the U.S. Navy. 
 
+- Funding for this presentation was supported by Oregon Gray Whale License Plate royalties to Oregon State University's Marine Mammal Institute
+
 - Tagging was undertaken under NMFS Permit Nos 731-1174, 15330 and 20605
 
 ## Acknowledgments
