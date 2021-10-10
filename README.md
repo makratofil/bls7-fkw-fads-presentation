@@ -19,7 +19,7 @@ A PDF copy of the poster will be available for download here, and information on
 
 - We thank Kim Holland for providing information on the Hawai'i FAD array
 
-- We thank Erin Oleson (PIFSC) for providing satellite tag data on one endangered false killer whale 
+- We thank Erin Oleson (PIFSC) for providing satellite tag data on 5 endangered false killer whales
 
 ## References
 1. Baird, R.W. 2016. **The lives of Hawai'i's dolphins and whales: natural history and conservation**. *Univeristy of Hawai'i Press, Honolulu, HI*.
